@@ -6,6 +6,8 @@ public class PlayerControllerExam03 : MonoBehaviour
     public float speed;
     public float xRange = 10;
     public GameObject projectilePrefab;
+    private float nextSpawnTime = 0f;
+
 
     public bool enableAutoFireMode;
     public float autoFireInterval = 0.1f;
@@ -38,6 +40,16 @@ public class PlayerControllerExam03 : MonoBehaviour
         if (shootAction.triggered)
         {
             Instantiate(projectilePrefab, transform.position, transform.rotation);
+        }
+
+
+        if (enableAutoFireMode = true && Time.time >nextSpawnTime)
+        {
+           
+                Instantiate(projectilePrefab, transform.position, transform.rotation);
+                nextSpawnTime = Time.time + autoFireInterval;
+            
+
         }
     }
 }
