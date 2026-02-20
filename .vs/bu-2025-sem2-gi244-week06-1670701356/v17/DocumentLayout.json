@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{F0859E33-F5AA-B293-B8AF-D2AAE303DC8A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exam\\playercontrollerexam05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0859E33-F5AA-B293-B8AF-D2AAE303DC8A}|Assembly-CSharp.csproj|d:\\1670701356\\gi244_game_programming\\test_week6\\bu-2025-sem2-gi244-week06-1670701356\\assets\\scripts\\exam\\wavespawnmanagerexam04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F0859E33-F5AA-B293-B8AF-D2AAE303DC8A}|Assembly-CSharp.csproj|D:\\1670701356\\GI244_Game_Programming\\Test_Week6\\bu-2025-sem2-gi244-week06-1670701356\\assets\\scripts\\exam\\wavespawnmanagerexam04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0859E33-F5AA-B293-B8AF-D2AAE303DC8A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exam\\wavespawnmanagerexam04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0859E33-F5AA-B293-B8AF-D2AAE303DC8A}|Assembly-CSharp.csproj|d:\\1670701356\\gi244_game_programming\\test_week6\\bu-2025-sem2-gi244-week06-1670701356\\assets\\scripts\\wavespawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F0859E33-F5AA-B293-B8AF-D2AAE303DC8A}|Assembly-CSharp.csproj|D:\\1670701356\\GI244_Game_Programming\\Test_Week6\\bu-2025-sem2-gi244-week06-1670701356\\assets\\scripts\\wavespawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0859E33-F5AA-B293-B8AF-D2AAE303DC8A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\wavespawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,8 +22,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,7 +36,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Exam\\PlayerControllerExam05.cs",
               "ToolTip": "D:\\1670701356\\GI244_Game_Programming\\Test_Week6\\bu-2025-sem2-gi244-week06-1670701356\\Assets\\Scripts\\Exam\\PlayerControllerExam05.cs",
               "RelativeToolTip": "Assets\\Scripts\\Exam\\PlayerControllerExam05.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-20T09:28:30.693Z",
               "EditorCaption": ""
@@ -47,8 +51,7 @@
               "RelativeToolTip": "Assets\\Scripts\\WaveSpawnManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T09:24:39.704Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-20T09:24:39.704Z"
             },
             {
               "$type": "Document",
@@ -60,12 +63,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Exam\\WaveSpawnManagerExam04.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T09:07:56.408Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2026-02-20T09:07:56.408Z"
             }
           ]
         }
